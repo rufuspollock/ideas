@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/okfn/ideas.png?label=ready&title=Ready)](https://waffle.io/okfn/ideas)
 ideas
 =====
 
