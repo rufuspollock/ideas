@@ -1,0 +1,1 @@
+- [ ] Move log stuff to rufuspollock.com
